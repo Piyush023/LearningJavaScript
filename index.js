@@ -33,6 +33,7 @@ console.log(a);
 // 2. Let
 let b = 10;
 console.log(b);
+
 let ab = 'This is a String in let'
 // let b = 'This is a String in let'
 // This is not possible in case of the let variable and this is will give us a error. If we try to do this when using a let variable.
